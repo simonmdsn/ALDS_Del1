@@ -1,7 +1,7 @@
 """
 DM507 Algoritmer og datastrukturer
 Projekt, del I
-Lavet af Joachim Bülow(jobul18), Sofie Louise Madsen(sofma18) og Simon Soele Madsen(smads18)
+Lavet af Joachim Henrik Bülow(jobul18), Sofie Louise Madsen(sofma18) og Simon Soele Madsen(smads18)
 @ University of Southern Denmark
 Afleveres d. 16.03.2020
 """
